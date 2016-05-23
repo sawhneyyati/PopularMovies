@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/yatisawhney/version-control/Popular-Movies-App/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="/Users/yatisawhney/version-control/Popular-Movies-App/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-22.2.0_93b49dcc257a128fd17504da91726626882d8ef2.jar" />
+    </item>
+    <item
+        jar="/Users/yatisawhney/version-control/Popular-Movies-App/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="6e19a33e9b000dcef72b310c45a80165025118e0">
+        <dex dex="/Users/yatisawhney/version-control/Popular-Movies-App/app/build/intermediates/pre-dexed/debug/instant-run_d3aaddc77ae7d4ec443d9c16120956405df455e5.jar" />
+    </item>
+    <item
+        jar="/Users/yatisawhney/version-control/Popular-Movies-App/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="acc6c7f3beb9d6fad50c715cc9a4a9c96eabc01e">
+        <dex dex="/Users/yatisawhney/version-control/Popular-Movies-App/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_a6ae91ac17cb17ff480d8677b06180507b4f0089.jar" />
+    </item>
+    <item
+        jar="/Users/yatisawhney/version-control/Popular-Movies-App/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/yatisawhney/version-control/Popular-Movies-App/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.2.0_3f80b9bf29a1d3f2799dad72146210543cd8907f.jar" />
+    </item>
+    <item
+        jar="/Users/yatisawhney/version-control/Popular-Movies-App/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/yatisawhney/version-control/Popular-Movies-App/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.0_978f09a73e79b4787c1363dd47f145a3073db719.jar" />
+    </item>
+    <item
+        jar="/Users/yatisawhney/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/yatisawhney/version-control/Popular-Movies-App/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0_8ee31e45cc3221b37ebb344a6c242182180a6ae2.jar" />
+    </item>
+    <item
+        jar="/Users/yatisawhney/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.0/a7537446a030da8eb0da4c71424d16c2589f6c4a/glide-3.6.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="/Users/yatisawhney/version-control/Popular-Movies-App/app/build/intermediates/pre-dexed/debug/glide-3.6.0_5ddd483dc144cb01e28ebe07fbba91f4b1f8054b.jar" />
+    </item>
+    <item
+        jar="/Users/yatisawhney/version-control/Popular-Movies-App/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/yatisawhney/version-control/Popular-Movies-App/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_b15e9ed707b52669d26902d6c1a999ea1612b05f.jar" />
+    </item>
+    <item
+        jar="/Users/yatisawhney/version-control/Popular-Movies-App/app/build/intermediates/exploded-aar/com.github.frankiesardo/linearlistview/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="d52b800eb529f69bd5c807142349fe0967df8c99">
+        <dex dex="/Users/yatisawhney/version-control/Popular-Movies-App/app/build/intermediates/pre-dexed/debug/com.github.frankiesardo-linearlistview-1.0.1_77fb415f826d989fb2ef2b0c110f91404b367d4c.jar" />
+    </item>
+
+</items>
